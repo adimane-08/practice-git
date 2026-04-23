@@ -1,1 +1,5 @@
-addinf file to the git
+adding file to the git
+
+adding second line of code
+
+added third line
